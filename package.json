@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@teambit/bvm": "^1.0.4"
+  }
+}
